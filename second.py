@@ -2,7 +2,7 @@ def cislo_text(cislo):
     slovnik = {
         0: "nula",
         1: "jedna",
-        2: "dvě",
+        2: "dva",
         3: "tři",
         4: "čtyři",
         5: "pět",
