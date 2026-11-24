@@ -1,5 +1,6 @@
 class  ChybnaCastka(Exception):
-    pass
+    def __str__(self):
+        return "Chybna castka"
 
 class BankovniUcet:
     def __init__(self,jmeno, urok):
